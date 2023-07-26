@@ -14,7 +14,7 @@ config = {
     'output_folder': 'output',
 
     # Folder where the consolidated data will be stored by project.
-    'consolidation_dat_folder': 'sample_results_by_project',
+    'data_folder': 'sample_results_by_project',
 
     # Log level for the script. It controls the verbosity of log messages.
     'log_level': 'info',
